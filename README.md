@@ -28,3 +28,20 @@ Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [npm](https://www.npmjs.com/) (v6 or later) or [yarn](https://yarnpkg.com/) (v1.22 or later)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/thentrsfs/Contact-Form.git
+   cd Contact-Form
+   
+2. Install dependencies
+   npm install
+# or
+yarn install
+
+3. Running the project
+   npm run dev
+   
